@@ -22,3 +22,4 @@ You can set the input directory using one of the following parameters.
     java -jar ResourcePackConverter.jar --input input/
 
 We hope this helps out!
+
